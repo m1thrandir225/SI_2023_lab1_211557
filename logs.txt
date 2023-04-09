@@ -1,0 +1,28 @@
+commit 43cf90040ea6fc47f2c9e7c3c6dc42f5d33ca05b (HEAD -> master, origin/master, bug3)
+Author: Sebastijan Zindl <sebastijan.zindl@piksel.mk>
+Date:   Sun Apr 9 18:44:34 2023 +0200
+
+    sumEvenNumbers
+
+commit d5d5e1421359c34ed0bf4b9ed3ff9e1b69f09554
+Merge: 9d08d5a 03893e3
+Author: Sebastijan Zindl <sebastijan.zindl@piksel.mk>
+Date:   Sun Apr 9 18:46:29 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 03893e30fcb9def86ba1b056c1db6163d7d763ea (origin/bug2, bug2)
+Author: Sebastijan Zindl <sebastijan.zindl@piksel.mk>
+Date:   Sun Apr 9 18:43:47 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 9d08d5abd51a1eac814fc62c72bb9f2f758e80af (origin/bug1, bug1)
+Author: Sebastijan Zindl <sebastijan.zindl@piksel.mk>
+Date:   Sun Apr 9 18:42:28 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 0acc2b669123f946eb48e211c1e73ff01e6a7fe9
+Author: Sebastijan Zindl <sebastijan.zindl@piksel.mk>
+Date:   Sun Apr 9 18:37:55 2023 +0200

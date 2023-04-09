@@ -1,0 +1,10 @@
+1. Local remote with git init in directory
+2. We connect with git remote add origin and the url from the remove git
+3. We use touch to create the files  and nano to add contents to the files, after which every one of them we add git add . and git commit -m "message"
+4. We syncronize the local git with the remote
+5. We create three different branches with git checkout -b "branch name" 
+6. We sync the local branches with the remote with git push --all
+7. We do the bug fixes in the branches, after which we merge them into the master branch with git merge
+8. We rebase branch bug3 with the master one and then we merge the master branch with bracnh bug3 
+9. We add logs where we put the results from git log
+10. We create this file and write the steps here. 
